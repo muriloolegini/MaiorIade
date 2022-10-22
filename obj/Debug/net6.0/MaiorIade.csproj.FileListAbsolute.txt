@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\bin\Debug\net6.0\MaiorIade.exe
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\bin\Debug\net6.0\MaiorIade.deps.json
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\bin\Debug\net6.0\MaiorIade.runtimeconfig.json
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\bin\Debug\net6.0\MaiorIade.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\bin\Debug\net6.0\MaiorIade.pdb
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\refint\MaiorIade.dll
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.pdb
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\MaiorIade.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Downloads\code\C#\MaiorIade\obj\Debug\net6.0\ref\MaiorIade.dll
